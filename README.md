@@ -1,8 +1,7 @@
 Hi, I'm Oliver.
 I'm 18 and I'm currently in the 
 beginning stages of web development.
-I hope to be very good at it someday
-soon.
+I hope to be very good at it someday.
 I'm also kind of an introvert.
 
 
